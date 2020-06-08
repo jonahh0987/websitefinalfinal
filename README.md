@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Jonah's Profile
 
 You can use the [editor on GitHub](https://github.com/jonahh0987/websitefinalfinal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
